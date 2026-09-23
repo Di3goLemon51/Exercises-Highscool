@@ -1,0 +1,12 @@
+body {
+    background-color : #aeadad;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+  }

@@ -1,0 +1,36 @@
+body {
+    background-color : #98f0c8;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+    font-family: monospace;
+    font-size: large;
+    list-style-type: none; /* Remove bullets */
+}
+
+li {
+    background-color: #cad2c5;
+    padding: 10px;
+    border: 3px solid #84a98c;
+    border-radius: 20px;
+
+    
+}
+
+.Provincie {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    list-style: square;
+
+}
+
+.spanRegione {
+    float: right;
+}
