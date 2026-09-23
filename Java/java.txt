@@ -1,0 +1,15 @@
+settings: ci sono i vari path di src e bin
+bin ci sono i file eseguiti (app.class)
+src il codice (app.java)
+
+in App.java:
+
+public class - classe visibile a tutti quelli che anno il progetto
+
+*nome* - la classe deve avere lo stesso nome del file
+
+static - metodo che non varia in base all'istanza
+
+void - non ritorna nulla altrimenti va usato il tipo di elemento
+
+exeption - gli errori possibili
